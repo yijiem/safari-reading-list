@@ -1,3 +1,11 @@
+https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
+
+https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
+
+Compilers For The Future - Adam | Blog
+
+https://adam-mcdaniel-blog.github.io/compilers-for-the-future
+
 Imaginary Problems Are the Root of Bad Software
 
 https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software
