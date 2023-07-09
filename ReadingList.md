@@ -1,3 +1,43 @@
+Cloud Backed SQLite: Cloud Backed SQLite
+
+https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki
+
+Why Is Desalination So Difficult? — Practical Engineering
+
+https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult
+
+Regex engine internals as a library - Andrew Gallant's Blog
+
+https://blog.burntsushi.net/regex-internals/
+
+Are You Sure You Want to Use MMAP in Your Database Management System? (CIDR 2022)
+
+https://db.cs.cmu.edu/mmap-cidr2022/
+
+Adrian Sampson: Flattening ASTs (and Other Compiler Data Structures)
+
+https://www.cs.cornell.edu/~asampson/blog/flattening.html
+
+Courses – Stanford Artificial Intelligence Laboratory
+
+https://ai.stanford.edu/courses/
+
+More: Systems Programming with Racket
+
+https://docs.racket-lang.org/more/index.html
+
+Introduction - mdBook Documentation
+
+https://rust-lang.github.io/mdBook/
+
+Making Games · Evan Todd
+
+https://etodd.io/2023/06/27/making-games/
+
+Mofi - Content-aware fill and trim for music!
+
+https://mofi.loud.red/
+
 https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
 
 https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
