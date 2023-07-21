@@ -1,3 +1,27 @@
+http://www.nicolascollins.com/texts/originalhackingmanual.pdf
+
+http://www.nicolascollins.com/texts/originalhackingmanual.pdf
+
+Introduction / Guides / Oxide
+
+https://docs.oxide.computer/guides/introduction#_overview
+
+Portable Network Graphics (PNG) Specification (Third Edition)
+
+https://www.w3.org/TR/png-3/
+
+Computers Are Bad
+
+https://computer.rip/2023-07-15-underwater-ears-everywhere.html
+
+Patching GCC to build Actually Portable Executables | Blog Needs a Name
+
+https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/
+
+DisplayPort: A Better Video Interface | Hackaday
+
+https://hackaday.com/2023/07/11/displayport-a-better-video-interface/
+
 Cloud Backed SQLite: Cloud Backed SQLite
 
 https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki
