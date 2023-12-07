@@ -1,3 +1,83 @@
+Raft Consensus Algorithm
+
+https://raft.github.io/
+
+Hacking the Timex m851
+
+https://lock.cmpxchg8b.com/timex.html
+
+Diving into Starlink's User Terminal Firmware
+
+https://blog.quarkslab.com/starlink.html
+
+Keystroke timing obfuscation added to ssh(1)
+
+https://undeadly.org/cgi?action=article;sid=20230829051257
+
+Nvidia On the Mountaintop – Stratechery by Ben Thompson
+
+https://stratechery.com/2023/nvidia-on-the-mountaintop/
+
+Bypassing Bitlocker using a cheap logic analyzer on a Lenovo laptop
+
+https://www.errno.fr/BypassingBitlocker.html
+
+Physics — Susan Rigetti
+
+https://www.susanrigetti.com/physics
+
+LK-99 isn’t a superconductor — how science sleuths solved the mystery
+
+https://www.nature.com/articles/d41586-023-02585-7
+
+How They Bypass YouTube Video Download Throttling | 0x7D0
+
+https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/
+
+RFC 9446: Reflections on Ten Years Past the Snowden Revelations
+
+https://www.rfc-editor.org/rfc/rfc9446.html
+
+https://dl.acm.org/doi/pdf/10.1145/3570638
+
+https://dl.acm.org/doi/pdf/10.1145/3570638
+
+The Shader Permutation Problem - Part 1: How Did We Get Here?
+
+https://therealmjp.github.io/posts/shader-permutations-part1/
+
+A non-mathematical introduction to Kalman Filters for programmers - Pravesh Koirala
+
+https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/
+
+How SmartHeat™ Technology Works: A Tutorial - Metcal
+
+https://www.metcal.com/hand-soldering/how-smartheat-technology-works-a-tutorial-2/
+
+Why is DNS still hard to learn?
+
+https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/
+
+How “It works in my machine” turns “It works in my container”? | by Raju Dawadi | Medium
+
+https://dwdraju.medium.com/how-it-works-in-my-machine-turns-it-works-in-my-container-1b9a340ca43d
+
+How MOS 6502 Illegal Opcodes really work – pagetable.com
+
+https://www.pagetable.com/?p=39
+
+Zenbleed
+
+https://lock.cmpxchg8b.com/zenbleed.html
+
+Attention Is Off By One – Evan Miller
+
+https://www.evanmiller.org/attention-is-off-by-one.html
+
+ldd arbitrary code execution
+
+https://catonmat.net/ldd-arbitrary-code-execution
+
 http://www.nicolascollins.com/texts/originalhackingmanual.pdf
 
 http://www.nicolascollins.com/texts/originalhackingmanual.pdf
